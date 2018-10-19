@@ -3,9 +3,5 @@
 	<version>1</version>
 	<pluginVersion><![CDATA[3.9.5.201807030714-RELEASE]]></pluginVersion>
 	<configs>
-		<config>
-			<file>WebContent/WEB-INF/web.xml</file>
-			<name><![CDATA[web]]></name>
-		</config>
 	</configs>
 </webflow-project-description>

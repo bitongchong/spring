@@ -166,6 +166,9 @@
 		默认情况下是直接转发的，如果要让跳转方式更改为重定向的话，需要在return语句中添加redirect
 		同理，如果需要转发，也可以添加forward
 		
+	18、web.xml出现Start state is missing. Add at least one state to the flow的报错
+	    Spring explorer的时候右键项目点了web flow support 这个项，remove掉里面的applicationContext.xml
+	          
 	
 		
 		
